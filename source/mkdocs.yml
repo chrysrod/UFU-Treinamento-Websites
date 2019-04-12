@@ -1,0 +1,19 @@
+site_name: Treinamento Websites UFU
+nav:
+    - Home: index.md
+    - Login: login.md
+    - Pessoa: pessoa.md
+    - Unidade: unidade.md
+    - Serviço: servico.md
+    - Acontece: acontece.md
+    - Editais: editais.md
+    - Destaque: destaque.md
+    - Central de Conteúdos: central.md
+    - Perguntas Frequentes: perguntas.md
+    - Documento/Legislação: documento.md
+    - Editar e Despublicar: editar.md
+    - Mural de Diretores: mural.md
+    - Nossos Números: numeros.md
+    - Reserva: reserva.md
+    - Editor: editor.md
+theme: readthedocs
