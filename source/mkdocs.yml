@@ -1,4 +1,4 @@
-site_name: Treinamento Websites UFU
+site_name: Treinamento Portal de Unidade Acadêmica UFU
 nav:
     - Home: index.md
     - Login: login.md

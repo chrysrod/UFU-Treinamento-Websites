@@ -1,6 +1,6 @@
 # Adicionar acontece
 
-Acontece é um tipo de conteúdo utilizado para cadastrar notícias e eventos que acontecem na unidade acadêmica.
+Acontece é um tipo de conteúdo utilizado para cadastrar notícias e eventos que acontecem na unidade acadêmica. T
 
 Para cadastrar um tipo de conteúdo Editais, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a figura abaixo:
 
