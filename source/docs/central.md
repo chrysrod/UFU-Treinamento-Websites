@@ -24,7 +24,6 @@ Na aba Multimídia, só poderá ser incluído um arquivo caso tenha selecionado 
 selecione o arquivo desejado e clique em Upload, conforme a imagem abaixo:
 
 ![8 - Adicionar Central de Conteúdos 4](../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 4.png)
-
 Na aba Configurações, selecione a Seção a qual o conteúdo pertence, caso faça parte de um curso em específico, selecione o tipo do curso, o curso e clique em Adicionar, conforme a imagem abaixo:
 
 ![8 - Adicionar Central de Conteúdos 5](../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 5.png)

@@ -4,6 +4,11 @@ Acontece é um tipo de conteúdo utilizado para cadastrar notícias e eventos qu
 
 Para cadastrar um tipo de conteúdo Editais, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a figura abaixo:
 
+<figure class="image">
+  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 1.1.png">
+  <center><figcaption>Legenda da figura acima</figcaption></center>
+  </br>
+</figure>
 
 Depois clique em Adicionar Conteúdo, conforme a figura abaixo:
 
