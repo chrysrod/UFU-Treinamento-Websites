@@ -16,4 +16,5 @@ nav:
     - Nossos Números: numeros.md
     - Reserva: reserva.md
     - Editor: editor.md
-theme: readthedocs
+theme:
+  name: 'readthedocs'
