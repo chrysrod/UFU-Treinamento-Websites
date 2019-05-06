@@ -6,7 +6,7 @@ principais questões que podem surgir.
 Para cadastrar um tipo de conteúdo Perguntas Frequentes, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 1.2.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 1.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -14,7 +14,7 @@ Para cadastrar um tipo de conteúdo Perguntas Frequentes, vá até o menu superi
 Depois clique em Adicionar Conteúdo, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 1.2.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 1.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -22,7 +22,7 @@ Depois clique em Adicionar Conteúdo, conforme a  imagem abaixo:
 Escolha o tipo de conteúdo Perguntas Frequêntes, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 2.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -30,7 +30,7 @@ Escolha o tipo de conteúdo Perguntas Frequêntes, conforme a  imagem abaixo:
 Preencha o título da pergunta no campo Título, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 3.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -38,7 +38,7 @@ Preencha o título da pergunta no campo Título, conforme a  imagem abaixo:
 Na aba Conteúdo, preencha a Resposta da pergunta, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 4.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -47,7 +47,7 @@ Na aba Conteúdo, preencha a Resposta da pergunta, conforme a  imagem abaixo:
 Caso necessário, adicione arquivos na aba Arquivos, clicando em Escolher arquivo, selecione o arquivo desejado e clique em Upload, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 5.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 5.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -57,7 +57,7 @@ Na aba Configurações, selecione a Seção a qual pertence a Pergunta e você p
 esquerda e o link no campo da direita, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 6.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 6.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -65,7 +65,7 @@ esquerda e o link no campo da direita, conforme a  imagem abaixo:
 Ao final da Página clique em Salvar, conforme a  imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 7.png">
+  <img src="../imgs/9 - Adicionar Perguntas Frequentes/9 - Adicionar Perguntas Frequentes 7.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>

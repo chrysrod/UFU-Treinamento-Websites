@@ -6,7 +6,7 @@ Preferencialmente cadastre o link público do arquivo ou processo no SEI.
 Para cadastrar um tipo de conteúdo Documento/Legislação, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 1.1.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 1.1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -14,7 +14,7 @@ Para cadastrar um tipo de conteúdo Documento/Legislação, vá até o menu supe
 Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 1.2.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 1.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -22,7 +22,7 @@ Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 Escolha o tipo de conteúdo Documento/Legislação, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 2.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -30,7 +30,7 @@ Escolha o tipo de conteúdo Documento/Legislação, conforme a imagem abaixo:
 Preencha o título do Documento/Legislação no campo Título, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 3.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -39,7 +39,7 @@ Na aba Conteúdo, selecione o tipo do documento/legislação a ser cadastrado e 
 órgão ao qual o documento/legislação pertence e caso faça parte de um curso em específico, selecione o tipo do curso, o curso e clique em Adicionar, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 4.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -48,7 +48,7 @@ Ainda na aba Conteúdo, pode-se incluir um serviço relacionado com o documento/
 descrição do documento/legislação, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 5.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 5.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -58,7 +58,7 @@ também o campo para inserir links, preferencialmente coloque o link do processo
 campo da esquerda e o link no campo da direita, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 6.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 6.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -66,7 +66,7 @@ campo da esquerda e o link no campo da direita, conforme a imagem abaixo:
 Na aba Configurações, selecione a Seção a qual o documento/legislação pertence, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 7.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 7.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -74,7 +74,7 @@ Na aba Configurações, selecione a Seção a qual o documento/legislação pert
 Ao final da Página clique em Salvar, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 8.png">
+  <img src="../imgs/10 - Adicionar Documento-Legislação/10 - Adicionar Documento-Legislação 8.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>

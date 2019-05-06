@@ -5,7 +5,7 @@ Fazer o login é o processo de acessar sua conta para fazer as devidas alteraç�
 Primeiramente, entre na página inicial do website da sua Unidade Acadêmica, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 1.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -13,7 +13,7 @@ Primeiramente, entre na página inicial do website da sua Unidade Acadêmica, co
 Para fazer o login, digite /user na barra de endereço do website e aperte Enter (Ex: www.ufu.br/user), conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 2.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -21,7 +21,7 @@ Para fazer o login, digite /user na barra de endereço do website e aperte Enter
 Para acessar sua conta (login), entre com seu e-mail institucional UFU, e marque a caixa “Não sou um robô”, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 3.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -30,7 +30,7 @@ Após o login você estará em Meu Workbench, que é a página principal do seu 
 conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 4.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -38,7 +38,7 @@ conforme a figura abaixo:
 Agora você pode fazer edições, publicar e despublicar conteúdos. Para editar conteúdos, navegue no website através da barra superior que aparece após o login, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 5.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 5.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -46,7 +46,7 @@ Agora você pode fazer edições, publicar e despublicar conteúdos. Para editar
 Para sair de sua conta (logout), basta clicar no seu email na barra superior do website e clicar em sair, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/1 - Login e Logout/1 - Login e Logout 6.png">
+  <img src="../imgs/1 - Login e Logout/1 - Login e Logout 6.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>

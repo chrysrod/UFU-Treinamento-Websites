@@ -13,7 +13,7 @@ Para reservar uma sala, o solicitante deve acessar o website da sua Unidade Acad
 acima da logo da unidade acadêmica), conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 1.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -21,7 +21,7 @@ acima da logo da unidade acadêmica), conforme a figura abaixo:
 Na lista de serviços, o solicitante deve procurar por Agendamento de Recursos da Unidade Acadêmica, depois clicar em Agendamento de Recursos,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 2.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -29,7 +29,7 @@ Na lista de serviços, o solicitante deve procurar por Agendamento de Recursos d
 Dentro de Agendamento de Recursos da Unidade Acadêmica, clique em Agendamento de Recursos,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 3.1.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 3.1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -37,7 +37,7 @@ Dentro de Agendamento de Recursos da Unidade Acadêmica, clique em Agendamento d
 O solicitante deve verificar os horários livres para reserva clicando em Calendário no menu vertical Agendamento,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 3.2.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 3.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -45,7 +45,7 @@ O solicitante deve verificar os horários livres para reserva clicando em Calend
 Verifique os horários disponíveis no calendário,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 3.3.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 3.3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -53,7 +53,7 @@ Verifique os horários disponíveis no calendário,  conforme a figura abaixo:
 Após verificar os horários livres, o solicitante deverá clicar em Solicitar reserva no menu vertical,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 3.4.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 3.4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -61,7 +61,7 @@ Após verificar os horários livres, o solicitante deverá clicar em Solicitar r
 Preencha o formulário de solicitação de reserva,  conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Solicitante/14 - Reservas 4.png">
+  <img src="../imgs/14 - Reservas/Solicitante/14 - Reservas 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -80,7 +80,7 @@ Verifique as solicitações no e-mail da Secretaria da Unidade Acadêmica, onde 
 Para efetuar a reserva, clique em Menu e depois em Conteúdo no menu de administração superior, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 1.1.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 1.1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -88,14 +88,14 @@ Para efetuar a reserva, clique em Menu e depois em Conteúdo no menu de administ
 Depois, clique em adicionar conteúdo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 1.2.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 1.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
 Escolha o Tipo de conteúdo Reserva, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 2.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -103,7 +103,7 @@ Escolha o Tipo de conteúdo Reserva, conforme a figura abaixo:
 Preencha o campo “Nome da reserva” com o nome da disciplina ou uma curta descrição caso seja uma reserva eventual, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 3.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -111,7 +111,7 @@ Preencha o campo “Nome da reserva” com o nome da disciplina ou uma curta des
 Na aba Solicitante, insira o nome e o e-mail do solicitante da reserva, bem como o Telefone e o Ramal do mesmo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 4.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -120,7 +120,7 @@ Na aba Reserva, preencha o Campus/Bloco do recurso que está sendo solicitado, o
 observação, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 5.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 5.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -128,7 +128,7 @@ observação, conforme a figura abaixo:
 Na aba Configurações, selecione a qual seção pertence o recurso solicitado, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 6.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 6.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -136,7 +136,7 @@ Na aba Configurações, selecione a qual seção pertence o recurso solicitado, 
 Ao final da página, clique em salvar, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/14 - Reservas/Secretaria/14 - Reservas 7.png">
+  <img src="../imgs/14 - Reservas/Secretaria/14 - Reservas 7.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>

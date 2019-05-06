@@ -11,7 +11,7 @@ da Informação da UFU.
 Para editar um tipo de conteúdo qualquer, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Editar/11 - Editar 1.png">
+  <img src="../imgs/11 - Editar e Despublicar/Editar/11 - Editar 1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -19,7 +19,7 @@ Para editar um tipo de conteúdo qualquer, vá até o menu superior no website, 
 No campo Título, digite o nome ou título do conteúdo que será editado e clique em Aplicar. Quando encontrar o conteúdo, clique em editar na coluna Operações,
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Editar/11 - Editar 2.png">
+  <img src="../imgs/11 - Editar e Despublicar/Editar/11 - Editar 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -27,7 +27,7 @@ No campo Título, digite o nome ou título do conteúdo que será editado e cliq
 Realize as devidas alterações e salve no final da página,
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Editar/11 - Editar 3.png">
+  <img src="../imgs/11 - Editar e Despublicar/Editar/11 - Editar 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -38,7 +38,7 @@ Para despublicar um tipo de conteúdo qualquer, vá até o menu superior no
 website, clique em Menu, depois em Conteúdo,
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 1.png">
+  <img src="../imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -46,7 +46,7 @@ website, clique em Menu, depois em Conteúdo,
 Caso necessário, ainda na aba Geral, você pode adicionar uma imagem,
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 2.png">
+  <img src="../imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -54,7 +54,7 @@ Caso necessário, ainda na aba Geral, você pode adicionar uma imagem,
 No final da página de edição, junto ao botão de salvar, clique em Despublicar,
 
 <figure class="image">
-  <img src="/imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 3.png">
+  <img src="../imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>

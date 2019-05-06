@@ -5,7 +5,7 @@ O tipo de conteúdo Destaque é utilizado para criar uma notícia destacada em f
 Para cadastrar um tipo de conteúdo Destaque, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.1.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.1.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -13,7 +13,7 @@ Para cadastrar um tipo de conteúdo Destaque, vá até o menu superior no websit
 Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.2.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -21,7 +21,7 @@ Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 Escolha o tipo de conteúdo Destaque, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 2.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 2.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -29,7 +29,7 @@ Escolha o tipo de conteúdo Destaque, conforme a imagem abaixo:
 Preencha o título do Destaque no campo Título, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 3.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 3.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -39,7 +39,7 @@ aberta ao clicar na notícia, e em Imagem, insira a imagem da notícia clicando 
 imagem deve estar no formato 750x425, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 4.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 4.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -48,7 +48,7 @@ Na aba Configurações, escolha a seção a qual a notícia destaque pertence, e
 em Adicionar, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 5.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 5.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -57,7 +57,7 @@ Ao final da página, pode ser feito o agendamento da publicação do conteúdo, 
 publicar na mesma hora, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 6.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 6.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
@@ -65,7 +65,7 @@ publicar na mesma hora, conforme a imagem abaixo:
 Ao final da Página clique em Salvar, conforme a imagem abaixo:
 
 <figure class="image">
-  <img src="/imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 7.png">
+  <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 7.png">
   <center><figcaption>Legenda da figura acima</figcaption></center>
   </br>
 </figure>
