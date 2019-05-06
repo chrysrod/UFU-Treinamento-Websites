@@ -1,2 +1,2 @@
 # docs-websites-ufu
-www.chrysrodev.github.io/treinamento-websites-ufu
+Github Pages: chrysrodev.github.io/treinamento-websites-ufu
