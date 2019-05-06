@@ -7,7 +7,7 @@ Para cadastrar um conteúdo da Central de Conteúdos, vá até o menu superior n
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -15,7 +15,7 @@ Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -23,7 +23,7 @@ Escolha o tipo de conteúdo Central de Conteúdos, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -32,7 +32,7 @@ no campo Descrição, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Geral</figcaption></center>
   </br>
 </figure>
 
@@ -41,7 +41,7 @@ selecione o arquivo desejado e clique em Upload, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Multimídia</figcaption></center>
   </br>
 </figure>
 
@@ -49,7 +49,7 @@ Na aba Configurações, selecione a Seção a qual o conteúdo pertence, caso fa
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Configurações</figcaption></center>
   </br>
 </figure>
 
@@ -58,7 +58,7 @@ publicar na mesma hora, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Agendamento</figcaption></center>
   </br>
 </figure>
 
@@ -66,6 +66,6 @@ Ao final da Página clique em Salvar, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/8 - Adicionar Central de Conteúdos/8 - Adicionar Central de Conteúdos 7.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>

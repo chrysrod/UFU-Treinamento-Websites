@@ -9,7 +9,7 @@ A fonte é a grafia com a qual será escrito o conteúdo, por padrão, é utiliz
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Fonte</figcaption></center>
   </br>
 </figure>
 
@@ -18,7 +18,7 @@ opções, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipos de fontes</figcaption></center>
   </br>
 </figure>
 
@@ -26,7 +26,7 @@ As primeiras opções disponíveis após a seleção da fonte, são as opções 
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Negrito, itálico e sublinhado</figcaption></center>
   </br>
 </figure>
 
@@ -35,7 +35,7 @@ um terá suas aplicações, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Alinhamento</figcaption></center>
   </br>
 </figure>
 
@@ -43,7 +43,7 @@ Além disso, podemos inserir tópicos enumerados, tópicos simples e textos com 
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Separação de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -52,7 +52,7 @@ externo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 5.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Links</figcaption></center>
   </br>
 </figure>
 
@@ -61,14 +61,14 @@ janela extra, e nela, devemos preencher qual o conteúdo queremos inserir em pro
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 5.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Procurar conteúdo (Link)</figcaption></center>
   </br>
 </figure>
 Então, podemos clicar em Opções e escolher o título do link que será inserido, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 5.3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Opções de link</figcaption></center>
   </br>
 </figure>
 
@@ -76,7 +76,7 @@ Para inserir links relacionados com o edital, no campo esquerdo coloque o títul
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 5.4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Links</figcaption></center>
   </br>
 </figure>
 
@@ -85,7 +85,7 @@ clicar em OK, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 6.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Editar link</figcaption></center>
   </br>
 </figure>
 
@@ -94,7 +94,7 @@ Podemos criar uma tabela clicando no ícone de tabela, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 6.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tabela</figcaption></center>
   </br>
 </figure>
 
@@ -102,6 +102,6 @@ Ao final da Página clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/15 - Editor de Texto/15 - Editor de Texto 7.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>

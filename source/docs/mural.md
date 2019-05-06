@@ -6,7 +6,7 @@ Para cadastrar um tipo de conteúdo Mural de Gestores, vá até o menu superior 
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Depois clique em Adicionar Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Escolha o tipo de conteúdo Mural de Gestores, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -30,7 +30,7 @@ Preencha o nome do gestor, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Nome do gestor</figcaption></center>
   </br>
 </figure>
 
@@ -39,7 +39,7 @@ currículo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -47,7 +47,7 @@ Na aba Configurações, selecione qual Seção pertence o gestor, conforme a fig
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Configurações</figcaption></center>
   </br>
 </figure>
 
@@ -55,6 +55,6 @@ Ao final da Página clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/12 - Mural de Gestores/12 - Mural de Gestores 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>

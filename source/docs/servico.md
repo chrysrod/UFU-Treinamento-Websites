@@ -6,7 +6,7 @@ Para cadastrar uma Serviço, vá até o menu superior no website, clique em Menu
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Depois clique em Adicionar Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Escolha o tipo de conteúdo Serviços, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -30,7 +30,7 @@ Preencha o título do Serviço no campo Título, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Título do serviço</figcaption></center>
   </br>
 </figure>
 
@@ -38,13 +38,13 @@ Na aba Descrição, preencha a definição, os requisitos e as orientações par
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 4.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Definição e requisitos do serviço</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 4.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Orientações do serviço</figcaption></center>
   </br>
 </figure>
 
@@ -53,7 +53,7 @@ incluir, editar ou remover uma legislação relacionada ao serviço que está se
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Geral</figcaption></center>
   </br>
 </figure>
 
@@ -61,7 +61,7 @@ Na aba Arquivos, caso seja necessário, pode-se colocar arquivos relacionados ao
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Arquivos</figcaption></center>
   </br>
 </figure>
 
@@ -69,7 +69,7 @@ Na aba Configurações, escolha primeiramente a qual seção o serviço pertence
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 7.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba configurações</figcaption></center>
   </br>
 </figure>
 
@@ -77,7 +77,7 @@ Ainda na aba Configurações, informe qual o público alvo e o assunto do servi�
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 8.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Público-alvo</figcaption></center>
   </br>
 </figure>
 
@@ -85,7 +85,7 @@ Por fim, ainda na aba de configurações, podem ser adicionados links com o tít
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 9.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Links</figcaption></center>
   </br>
 </figure>
 
@@ -93,6 +93,6 @@ Ao final da Página clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/4 - Adicionar Serviço/4 - Adicionar Serviço 10.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>

@@ -6,7 +6,7 @@ Primeiramente, entre na página inicial do website da sua Unidade Acadêmica, co
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Página inicial website</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Para fazer o login, digite /user na barra de endereço do website e aperte Enter
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Barra de endereço</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Para acessar sua conta (login), entre com seu e-mail institucional UFU, e marque
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Login</figcaption></center>
   </br>
 </figure>
 
@@ -31,7 +31,7 @@ conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Página inicial após o login</figcaption></center>
   </br>
 </figure>
 
@@ -39,7 +39,7 @@ Agora você pode fazer edições, publicar e despublicar conteúdos. Para editar
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -47,6 +47,6 @@ Para sair de sua conta (logout), basta clicar no seu email na barra superior do 
 
 <figure class="image">
   <img src="../imgs/1 - Login e Logout/1 - Login e Logout 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Logout</figcaption></center>
   </br>
 </figure>

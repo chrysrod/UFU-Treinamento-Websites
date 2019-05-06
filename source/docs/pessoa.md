@@ -6,7 +6,7 @@ Para cadastrar uma Pessoa, vá até o menu superior no website, clique em Menu, 
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Clique em Adicionar Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Escolha o tipo de conteúdo Pessoa, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -30,7 +30,7 @@ Preencha o nome completo da pessoa, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Nome completo</figcaption></center>
   </br>
 </figure>
 
@@ -38,7 +38,7 @@ Na aba Funcional, selecione a categoria e o cargo, digite a data de ingresso na 
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 4.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Categoria e data de ingresso</figcaption></center>
   </br>
 </figure>
 
@@ -46,7 +46,7 @@ Selecione o tipo do curso a qual a pessoa pertence e o curso em seguida clique e
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 4.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Curso</figcaption></center>
   </br>
 </figure>
 
@@ -54,7 +54,7 @@ Na aba Formação, selecione a titulação, digite a qualificação e a formaç�
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Formação</figcaption></center>
   </br>
 </figure>
 
@@ -62,19 +62,19 @@ Na aba Localização, clique em novo item e em seguida insira as informações d
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Informações de localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar localização</figcaption></center>
   </br>
 </figure>
 
@@ -82,7 +82,7 @@ Na aba Arquivos, insira o plano de trabalho caso seja um docente. Marque a caixa
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 8.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Arquivos</figcaption></center>
   </br>
 </figure>
 
@@ -90,7 +90,7 @@ Por fim, na aba Configurações, selecione a seção a qual a pessoa pertence, c
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 9.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Configurações</figcaption></center>
   </br>
 </figure>
 
@@ -98,6 +98,6 @@ Ao final da página, clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 10.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Botão salvar</figcaption></center>
   </br>
 </figure>

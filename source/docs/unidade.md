@@ -6,7 +6,7 @@ Para cadastrar uma Unidade, vá até o menu superior no website, clique em Menu 
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Depois clique em Adicionar Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Escolha o tipo de conteúdo Unidade, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -30,7 +30,7 @@ Insira o nome da unidade a ser criada, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Nome da unidade</figcaption></center>
   </br>
 </figure>
 
@@ -38,7 +38,7 @@ Na aba Geral, escolha o tipo da unidade, insira a sigla e a unidade superior a q
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba geral</figcaption></center>
   </br>
 </figure>
 
@@ -46,7 +46,7 @@ Ainda na aba Geral, preencha a apresentação, e caso necessário, clique em esc
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Apresentação</figcaption></center>
   </br>
 </figure>
 
@@ -55,7 +55,7 @@ adicione mais responsáveis no botão “Adicionar outro item”, conforme a fig
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Responsável</figcaption></center>
   </br>
 </figure>
 
@@ -64,7 +64,7 @@ Também é possível adicionar os endereços das redes sociais, conforme a figur
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 7.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Contato</figcaption></center>
   </br>
 </figure>
 
@@ -73,19 +73,19 @@ lembrando que o bloco a ser escolhido já deve estar cadastrado no sistema, conf
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Dados de localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar Localização</figcaption></center>
   </br>
 </figure>
 
@@ -93,7 +93,7 @@ Na aba Arquivos, caso seja necessário anexar arquivos a página da unidade, cli
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 9.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Arquivos</figcaption></center>
   </br>
 </figure>
 
@@ -101,7 +101,7 @@ Na aba Configurações, selecione a seção a qual a unidade pertence, o tipo de
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 10.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Configurações</figcaption></center>
   </br>
 </figure>
 
@@ -109,6 +109,6 @@ Ao final da página, clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
   <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 10.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>

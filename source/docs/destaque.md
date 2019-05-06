@@ -6,7 +6,7 @@ Para cadastrar um tipo de conteúdo Destaque, vá até o menu superior no websit
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.1.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
@@ -14,7 +14,7 @@ Depois clique em Adicionar Conteúdo, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 1.2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -22,7 +22,7 @@ Escolha o tipo de conteúdo Destaque, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 2.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -30,7 +30,7 @@ Preencha o título do Destaque no campo Título, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 3.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Título do destaque</figcaption></center>
   </br>
 </figure>
 
@@ -40,7 +40,7 @@ imagem deve estar no formato 750x425, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 4.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Conteúdo</figcaption></center>
   </br>
 </figure>
 
@@ -49,7 +49,7 @@ em Adicionar, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 5.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Aba Configurações</figcaption></center>
   </br>
 </figure>
 
@@ -58,7 +58,7 @@ publicar na mesma hora, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 6.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Agendamento</figcaption></center>
   </br>
 </figure>
 
@@ -66,6 +66,6 @@ Ao final da Página clique em Salvar, conforme a imagem abaixo:
 
 <figure class="image">
   <img src="../imgs/7 - Adicionar Destaque/7 - Adicionar Destaque 7.png">
-  <center><figcaption>Legenda da figura acima</figcaption></center>
+  <center><figcaption>Salvar</figcaption></center>
   </br>
 </figure>
