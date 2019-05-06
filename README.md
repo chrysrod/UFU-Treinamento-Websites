@@ -6,6 +6,6 @@ Ramal Divisão de Websites: 8045
 
 Treinamento desenvolvido por: Chrystian Rodrigues Campos/Mariana Milani de Oliveira
 
-Mantido por: Chrystian Rodrigues Campos/Denis José Almeida
+Treinamento mantido por: Chrystian Rodrigues Campos/Denis José Almeida
 
 Github Pages: chrysrodev.github.io/treinamento-websites-ufu
