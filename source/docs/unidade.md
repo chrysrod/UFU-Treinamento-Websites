@@ -59,7 +59,7 @@ adicione mais responsáveis no botão “Adicionar outro item”, conforme a Fig
   </br>
 </figure>
 
-Na aba Contato, preencha o campo Nome para exibição do contato, a Secretaria a qual a unidade pertence (já deve estar cadastrada), o Email de contato institucional e o Telefone. 
+Na aba Contato, preencha o campo Nome para exibição do contato, a Secretaria a qual a unidade pertence (clicando em incluir secretaria existente), o Email de contato institucional e o Telefone.
 Também é possível adicionar os endereços das redes sociais, conforme a Figura 8:
 
 <figure class="image">
