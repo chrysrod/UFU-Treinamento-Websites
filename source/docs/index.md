@@ -6,11 +6,12 @@ Esta documentação tem como objetivo auxiliar e facilitar o acesso dos usuário
 Nele, será possível obter um passo a passo das principais funcionalidades que o website oferece, de uma forma simples e didática.
 
 
-Ramal Divisão de Websites: 8045
 <br/>
 Treinamento desenvolvido por: Chrystian Rodrigues Campos/Mariana Milani de Oliveira
 <br/>
 Treinamento mantido por: Chrystian Rodrigues Campos/Denis José Almeida
 <br/>
-Github Pages: chrysrodev.github.io/treinamento-websites-ufu
+Críticas, dúvidas ou sugestões: chrystian.campos@ufu.br/keynes@ufu.br/denisjose@ufu.br
+<br/>
+Repositório do código: https://github.com/chrysrodev/treinamento-websites-ufu
 <br/>
