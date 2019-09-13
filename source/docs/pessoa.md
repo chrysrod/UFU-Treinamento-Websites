@@ -62,21 +62,23 @@ Na aba Localização, clique em novo item e em seguida insira as informações d
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.1.png">
-  <center><figcaption>Aba localização</figcaption></center>
+  <center><figcaption>Figura 7.1 - Aba localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.2.png">
-  <center><figcaption>Informações de localização</figcaption></center>
+  <center><figcaption>Figura 7.2 - Informações de localização</figcaption></center>
   </br>
 </figure>
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 7.3.png">
-  <center><figcaption>Salvar localização</figcaption></center>
+  <center><figcaption>Figura 7.3 - Salvar localização</figcaption></center>
   </br>
 </figure>
+
+# Plano de Trabalho Docente
 
 Na aba Arquivos, insira o plano de trabalho caso seja um docente. Esta funcionalidade foi permite o cadastro de mais de um plano de trabalho, portanto, permite que seja mantido planos de trabalho anteriores junto ao plano de trabalho atual. Para cadastrar o plano de trabalho docente, clique em Novo item, conforme a Figura 8.1:
 
