@@ -15,3 +15,29 @@ Críticas, dúvidas ou sugestões: chrystian.campos@ufu.br/keynes@ufu.br/denisjo
 <br/>
 Repositório do código: https://github.com/chrysrodev/treinamento-websites-ufu
 <br/>
+
+# Normas legais
+Normas legais relacionadas ao desenvolvimento do site da Unidade Acadêmica
+<ul>
+	<li><a target="_blank" href="https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOXFi3_0W0R686DvikcVqrUlWlUWEU2TsrFvL3g-QcWdl4scz8aoKASMiDdD7Z5ateVZzAbntRWQZb4xByfQuyB">Resolução SEI nº 02/2018 do CONDIR</a>: normatização do Plano de Trabalho Docente da UFU; </li>
+	<li><a target="_blank" href="http://apps.mpf.mp.br/aptusmpf/protected/download?modulo=0&sistema=portal&id=7EFE875A5C4A48800665ED6F10DE4430">Recomendação nº 08/2017 do MPF</a> de Uberlândia para cumprimento das alterações mais recentes do art. 47 da Lei nº 9.394/1996 (LDB), realizadas pela Lei nº 13.168/2015;</li>
+	<li><a target="_blank" href="http://www.secom.gov.br/acesso-a-informacao/institucional/legislacao/arquivos-de-instrucoes-normativas/2014in08-comunicacao-digital.pdf">Instrução Normativa SECOM-PR 8/2014</a>: disciplina a implantação e a gestão da Identidade Padrão de Comunicação Digital</li>
+	<li><a target="_blank" href="http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2013/Decreto/D8135.htm">Decreto nº 8.135/2013</a>: dispõe sobre as comunicações de dados da administração pública federal direta, autárquica e fundacional;</li>
+	<li>Art.32 da <a target="_blank" href="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/12/2010&jornal=1&pagina=26&totalArquivos=136">Portaria Normativa MEC 40/2007</a>: institui o e-MEC (sistema de informações relativas aos processos de regulação, avaliação e supervisão da educação superior federal);</li>
+</ul>
+
+
+# Banco de imagens
+Sites com imagens de direitos autorais livres:
+<ul>
+	<li><a target="_blank" href="https://www.pexels.com/">Pexels</a></li>
+	<li><a target="_blank" href="https://unsplash.com/">Unsplash</a></li>
+	<li><a target="_blank" href="http://freenaturestock.com/">Free Nature Stock</a></li>
+</ul>
+
+# Exemplos de sites
+Unidades Acadêmicas já desenvolvidas de acordo com o novo padrão de sites de Unidades Acadêmicas:
+<ul>
+	<li><a target="_blank" href="http://www.facom.ufu.br">Faculdade de Computação</a></li>
+	<li><a target="_blank" href="http://www.ibtec.ufu.br">Instituto de Biotecnologia</a></li>
+</ul>
