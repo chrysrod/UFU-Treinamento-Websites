@@ -88,7 +88,7 @@ Na aba Arquivos, insira o plano de trabalho caso seja um docente. Esta funcional
   </br>
 </figure>
 
-Na janela aberta, selecione o ano do plano de trabalho em questão, o período e o link para o SEI, depois clique em Salvar, conforme a Figura 8.2:
+Na janela aberta, selecione o ano do plano de trabalho em questão, o período e o link público para o documento no SEI! (<a href="/#link-sei">veja aqui</a> como copiar o link), depois clique em Salvar, conforme a Figura 8.2:
 
 <figure class="image">
   <img src="../imgs/2 - Adicionar Pessoa/2 - Adicionar Pessoa 8.2.png">

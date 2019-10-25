@@ -26,6 +26,12 @@ Normas legais relacionadas ao desenvolvimento do site da Unidade Acadêmica
 	<li>Art.32 da <a target="_blank" href="http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/12/2010&jornal=1&pagina=26&totalArquivos=136">Portaria Normativa MEC 40/2007</a>: institui o e-MEC (sistema de informações relativas aos processos de regulação, avaliação e supervisão da educação superior federal);</li>
 </ul>
 
+# Exemplos de sites
+Unidades Acadêmicas já desenvolvidas de acordo com o novo padrão de sites de Unidades Acadêmicas:
+<ul>
+	<li><a target="_blank" href="http://www.facom.ufu.br">Faculdade de Computação</a></li>
+	<li><a target="_blank" href="http://www.ibtec.ufu.br">Instituto de Biotecnologia</a></li>
+</ul>
 
 # Banco de imagens
 Sites com imagens de direitos autorais livres:
@@ -35,9 +41,14 @@ Sites com imagens de direitos autorais livres:
 	<li><a target="_blank" href="http://freenaturestock.com/">Free Nature Stock</a></li>
 </ul>
 
-# Exemplos de sites
-Unidades Acadêmicas já desenvolvidas de acordo com o novo padrão de sites de Unidades Acadêmicas:
+# Link SEI!
+Para copiar o <strong>link de acesso público</strong> para um documento disponível no SEI! siga os seguintes passos:
+
 <ul>
-	<li><a target="_blank" href="http://www.facom.ufu.br">Faculdade de Computação</a></li>
-	<li><a target="_blank" href="http://www.ibtec.ufu.br">Instituto de Biotecnologia</a></li>
+<li>Acesse a interface de <strong>Pesquisa Pública</strong> do SEI! clicando <a target="_blank" href="https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0">aqui </a></li>
+<li>Informe o número do processo no campo <strong>Nº do Processo ou Documento</strong> e clique em <strong>Pesquisar</strong></li>
+<li>No resultado da busca de processos, clique no <strong>número do Processo</strong></li>
+<li>Na página que será aberta, clique no <strong>número</strong> do documento público que deseja copiar o link</li>
+<li>Copie o link da página que foi aberta com o documento público</li>
 </ul>
+
