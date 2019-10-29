@@ -1,7 +1,5 @@
 # Adicionar pessoa
 
-A funcionalidade Reservas está disponível nos novos portais das Unidades Acadêmicas e tem como objetivo reservar salas, equipamentos ou laboratórios da UFU.
-
 Para cadastrar uma Pessoa, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a Figura 1:
 
 <figure class="image">

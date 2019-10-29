@@ -1,114 +1,91 @@
-# Adicionar unidade
+# Adicionar acontece
 
-A funcionalidade Reservas está disponível nos novos portais das Unidades Acadêmicas e tem como objetivo reservar salas, equipamentos ou laboratórios da UFU.
+Acontece é um tipo de conteúdo utilizado para cadastrar notícias e eventos que acontecem na unidade acadêmica.
 
-Para cadastrar uma Unidade, vá até o menu superior no website, clique em Menu depois em Conteúdo, conforme a Figura 1:
+Para cadastrar um tipo de conteúdo Acontece, vá até o menu superior no website, clique em Menu, depois em Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 1.1.png">
-  <center><figcaption>Figura 1 - Menu superior de administração</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 1.1.png">
+  <center><figcaption>Figura 1 - Menu superior de administração</figcaption></center>
   </br>
 </figure>
 
-Depois clique em Adicionar Conteúdo, conforme a Figura 2:
+Depois clique em Adicionar Conteúdo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 1.2.png">
-  <center><figcaption>Figura 2 - Adicionar conteúdo</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 1.2.png">
+  <center><figcaption>Figura 2 - Adicionar conteúdo</figcaption></center>
   </br>
 </figure>
 
-Escolha o tipo de conteúdo Unidade, conforme a Figura 3:
+Escolha o tipo de conteúdo Acontece, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 2.png">
-  <center><figcaption>Figura 3 - Tipo de conteúdo</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 2.png">
+  <center><figcaption>Figura 3 - Tipo de conteúdo</figcaption></center>
   </br>
 </figure>
 
-Insira o nome da unidade a ser criada, conforme a Figura 4:
+Preencha o título da notícia no campo Título, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 3.png">
-  <center><figcaption>Figura 4 - Nome da unidade</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 3.png">
+  <center><figcaption>Figura 4 - Título da notícia</figcaption></center>
   </br>
 </figure>
 
-Na aba Geral, escolha o tipo da unidade, insira a sigla e a unidade superior a qual a unidade pertence (esta já deve estar cadastrada) e insira o horário de atendimento, conforme a Figura 5:
+Preencha o pré-título da notícia no campo Chapéu (O Chapéu é uma introdução ao conteúdo da notícia) e adicione uma imagem relacionada à notícia em Informações do arquivo, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 4.png">
-  <center><figcaption>Figura 5 - Aba geral</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 4.png">
+  <center><figcaption>Figura 5 - Aba Geral</figcaption></center>
   </br>
 </figure>
 
-Ainda na aba Geral, preencha a apresentação, e caso necessário, clique em escolher arquivo e depois em upload de uma imagem de destaque para a unidade (a imagem deve ter a proporção de 750px x 425px), conforme a Figura 6:
+Na aba Conteúdo, adicione o conteúdo texto da notícia, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 5.png">
-  <center><figcaption>Figura 6 - Apresentação</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 5.png">
+  <center><figcaption>Figura 6 - Aba Conteúdo</figcaption></center>
   </br>
 </figure>
 
-Na aba Responsável, selecione o cargo do responsável legal pela unidade e insira seu nome (o responsável já deve estar cadastrado como pessoa). Caso seja necessário, 
-adicione mais responsáveis no botão “Adicionar outro item”, conforme a Figura 7:
+Caso necessário, na aba Arquivos, você pode adicionar arquivos de vários formatos à notícia, incluindo arquivos xls, zip, doc, entre outros, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 6.png">
-  <center><figcaption>Figura 7 - Responsável</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 6.png">
+  <center><figcaption>Figura 7 - Arquivos</figcaption></center>
   </br>
 </figure>
 
-Na aba Contato, preencha o campo Nome para exibição do contato, a Secretaria a qual a unidade pertence (já deve estar cadastrada), o Email de contato institucional e o Telefone. 
-Também é possível adicionar os endereços das redes sociais, conforme a Figura 8:
+Na aba Configurações, selecione a Seção de acordo com o conteúdo da notícia, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 7.png">
-  <center><figcaption>Figura 8 - Contato</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 7.png">
+  <center><figcaption>Figura 8 - Configurações</figcaption></center>
   </br>
 </figure>
 
-Na aba Localização, clique em Novo item e cadastre a localização da unidade, deixando apenas o campo “Mapa” e “Complemento” em branco, caso não sejam utilizados, 
-lembrando que o bloco a ser escolhido já deve estar cadastrado no sistema, conforme as figuras abaixo:
+Ainda na aba Configurações, você pode adicionar Links relacionados a notícia, como por exemplo links de eventos que acontecem na Faculdade ou Instituto, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.1.png">
-  <center><figcaption>Localização</figcaption></center>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 8.png">
+  <center><figcaption>Figura 9 - Configurações</figcaption></center>
   </br>
 </figure>
 
+Ao final da página, pode ser feito o agendamento da publicação do conteúdo, preencha caso deseje agendar para um momento posterior ou clique em Salvar para publicar na mesma hora, conforme a figura abaixo:
+
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.2.png">
-  <center><figcaption>Dados de localização</figcaption></center>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 9.1.png">
+  <center><figcaption>Figura 10 - Agendamento</figcaption></center>
   </br>
 </figure>
 
-<figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 8.3.png">
-  <center><figcaption>Salvar Localização</figcaption></center>
-  </br>
-</figure>
-
-Na aba Arquivos, caso seja necessário anexar arquivos a página da unidade, clique em Escolher arquivos e clique o upload para anexar os arquivos, conforme a Figura 9:
+Ao final da Página clique em Salvar, conforme a figura abaixo:
 
 <figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 9.png">
-  <center><figcaption>Figura 9 - Arquivos</figcaption>
-  </br>
-</figure>
-
-Na aba Configurações, selecione a seção a qual a unidade pertence, o tipo de curso, o curso e caso seja necessário, adicione links a página da unidade, colocando sempre o título do link no campo da esquerda e o link do campo da direita, conforme a Figura 10:
-
-<figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 10.1.png">
-  <center><figcaption>Figura 10 - Configurações</figcaption>
-  </br>
-</figure>
-
-Ao final da página, clique em Salvar, conforme a Figura 11:
-
-<figure class="image">
-  <img src="../imgs/3 - Adicionar Unidade/3 - Adicionar Unidade 10.2.png">
-  <center><figcaption>Figura 11 - Salvar</figcaption>
+  <img src="../imgs/5 - Adicionar Acontece/5 - Adicionar Acontece 9.2.png">
+  <center><figcaption>Figura 11 - Salvar</figcaption></center>
   </br>
 </figure>
