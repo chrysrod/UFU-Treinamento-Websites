@@ -69,7 +69,7 @@ Caso necessário, ainda na aba Geral, você pode adicionar uma imagem, conforme 
 No final da página de edição, junto ao botão de salvar, clique em Despublicar, conforme a Figura 8:
 
 <figure class="image">
-  <img src="../imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 3.png">
+  <center><img src="../imgs/11 - Editar e Despublicar/Despublicar/11 - Despublicar 3.png"></center>
   <center><figcaption>Figura 8 - Despublicar</figcaption></center>
   </br>
 </figure>
